@@ -1,0 +1,5 @@
+# Ignore CIA secrets file
+CIA_secrets.txt
+
+# Ignore Area 51 file - the truth is out there! Also in here.
+area_51.txt
